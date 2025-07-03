@@ -13,7 +13,7 @@
 ## Installazione
 1. Clona la repository:
    ```bash
-   git clone <URL-della-tua-repo>
+   git clone https://github.com/Notavibecoder/aurwrap.git
    cd aurwrap
    ```
 2. Installa il wrapper:
